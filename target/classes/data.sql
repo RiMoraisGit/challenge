@@ -1,0 +1,10 @@
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19941014, 9.3, 29332133, 'The Shawshank Redemption');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19720324, 9.2, 250342198, 'The Godfather');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(20080618, 9.0, 1009053678, 'The Dark Knight');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19741218, 9.0, 47964222, 'The Godfather Part II');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19570410, 9.0, 2945, '12 Angry Men');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(20031217, 9.0, 1138267537, 'The Lord of the Rings: The Return of the King');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19940204, 9.0, 322161245, 'Schindlers List');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19941014, 8.9, 213928762, 'Pulp Fiction');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(20011219, 8.9, 888195122, 'The Lord of the Rings: The Fellowship of the Ring');
+INSERT INTO Movie(date, rank, revenue, title) VALUES(19671229, 8.8, 25264999, 'The Good, the Bad and the Ugly');
